@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InkBoi-Kun
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning nothing at the momment 
-- 💞️ I’m looking to collaborate on Eaglercraft 1.20 with @EaglerDevs
+- 💞️ I’m looking to collaborate on Eaglercraft 1.8.9 to make it a offline download
 - 📫 Reach me at inkboi7021@outlook.com
 - (Still editing this 🤦)
 <!---
